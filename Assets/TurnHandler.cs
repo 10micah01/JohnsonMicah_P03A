@@ -12,7 +12,7 @@ public enum BattleState
     Lost
 }
 
-public class TurnHandle : MonoBehaviour
+public class TurnHandler : MonoBehaviour
 {
     public BattleState state;
 

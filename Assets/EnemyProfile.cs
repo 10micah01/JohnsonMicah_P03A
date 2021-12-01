@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-[CreateAssetMenu]
+[CreateAssetMenu(fileName = "NewEnemy", menuName = "Enemy")]
 public class EnemyProfile : ScriptableObject
+
 {
     public int Hp;
     public int CharmHp;
