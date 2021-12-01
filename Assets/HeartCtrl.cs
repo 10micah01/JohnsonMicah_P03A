@@ -10,10 +10,10 @@ public class HeartCtrl : MonoBehaviour
     public float Sensitivity;
     private Vector2 MovePos;
 
-    public int MaxX = 2;
-    public int MaxY = 2;
-    public int MinX = -2;
-    public int MinY = -2;
+    public float MaxX = 1.9f;
+    public float MaxY = 1.9f;
+    public float MinX = -1.9f;
+    public float MinY = -1.9f;
 
     void Start()
     {
