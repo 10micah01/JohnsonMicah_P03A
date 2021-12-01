@@ -22,4 +22,3 @@ public class PlayerHealth : MonoBehaviour
         Debug.Log("Player has Died");
     }
 }
-

@@ -5,12 +5,14 @@ using UnityEngine;
 public class EnemyAtkHazard : MonoBehaviour
 {
     public int Damage;
+    
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.GetComponent<PlayerHealth())
+        PlayerHealth health = other.GetComponent <PlayerHealth>();
+        if (health)
         {
-            other.GetComponent<PlayerHealth>().TakeDamage(Damage);
+            health.TakeDamage(Damage);
         }
     }
 }

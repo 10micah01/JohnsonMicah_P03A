@@ -166,6 +166,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0248bd5042915e44808f766b55644e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Damage: 0
 --- !u!61 &33511207
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -856,6 +857,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0248bd5042915e44808f766b55644e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Damage: 1
 --- !u!61 &824475462
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -977,6 +979,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0248bd5042915e44808f766b55644e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Damage: 0
 --- !u!61 &986784992
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1084,7 +1087,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   state: 0
   EnemiesInBattle:
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 4ac742747450ac14693a17e7b6076388, type: 2}
   PlayerUi: {fileID: 269196913}
   PlayerHeart: {fileID: 1918103599}
 --- !u!4 &1056566597
@@ -1325,6 +1328,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0248bd5042915e44808f766b55644e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Damage: 0
 --- !u!61 &1394447858
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1446,6 +1450,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0248bd5042915e44808f766b55644e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Damage: 0
 --- !u!61 &1423584345
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1567,6 +1572,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0248bd5042915e44808f766b55644e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Damage: 0
 --- !u!61 &1607777711
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2160,6 +2166,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0248bd5042915e44808f766b55644e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Damage: 0
 --- !u!61 &1984957072
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2362,6 +2369,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0248bd5042915e44808f766b55644e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Damage: 0
 --- !u!61 &2090622163
 BoxCollider2D:
   m_ObjectHideFlags: 0
