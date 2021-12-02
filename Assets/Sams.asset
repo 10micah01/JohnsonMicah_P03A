@@ -17,3 +17,4 @@ MonoBehaviour:
   EnemyVisual: {fileID: 0}
   EnemiesAttacks:
   - {fileID: 558309531484312087, guid: 3caf0c68ac4c52b4aa70b930a737abfa, type: 3}
+  - {fileID: 558309531484312087, guid: b113ad6db6d42bb4ba9cee3b02389e8e, type: 3}
