@@ -11,13 +11,25 @@ public class PlayerHealth : MonoBehaviour
     [SerializeField] private float invincibilityDeltaTime;
     [SerializeField] private GameObject model;
     private bool isInvincible = false;
+    public HealthBar healthBar;
+    public sprRender healthTotal2;
+    public sprRender healthTotal;
 
+    void Start()
+    {
+
+        healthBar.SetMaxHealth(MaxHp);
+    }
+    
     public void TakeDamage(int Dmg)
     {
         if (isInvincible) return;
 
         Audio.PlayClip2D(dmgSound, 1f);
         HP -= Dmg;
+        healthBar.SetHealth(HP);
+        healthTotal.ChangeSprite(HP);
+        healthTotal2.ChangeSprite(HP);
         Debug.Log("Damage");
         StartCoroutine(BecomeTemporarilyInvincible());
         if (HP <= 0)

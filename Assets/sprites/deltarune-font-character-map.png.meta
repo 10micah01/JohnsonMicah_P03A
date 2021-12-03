@@ -1,0 +1,1976 @@
+fileFormatVersion: 2
+guid: 43c0469e655a37a46a4ad42970f9c590
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 392500198121789063
+    second: deltarune-font-character-map_1
+  - first:
+      213: 7623916214042776086
+    second: deltarune-font-character-map_2
+  - first:
+      213: 5006165426789884012
+    second: deltarune-font-character-map_0
+  - first:
+      213: -7084924114856209297
+    second: deltarune-font-character-map_3
+  - first:
+      213: 8369388866802407672
+    second: deltarune-font-character-map_4
+  - first:
+      213: -6599825508669354276
+    second: deltarune-font-character-map_5
+  - first:
+      213: 7088122666894830889
+    second: deltarune-font-character-map_6
+  - first:
+      213: 5448323024804459796
+    second: deltarune-font-character-map_7
+  - first:
+      213: -4681744061950028139
+    second: deltarune-font-character-map_8
+  - first:
+      213: 5754667829491888908
+    second: deltarune-font-character-map_9
+  - first:
+      213: -8979125574798619894
+    second: deltarune-font-character-map_10
+  - first:
+      213: -7379904985631656371
+    second: deltarune-font-character-map_11
+  - first:
+      213: -5075621691943645295
+    second: deltarune-font-character-map_12
+  - first:
+      213: 6437201045358214661
+    second: deltarune-font-character-map_13
+  - first:
+      213: -4808999538301211421
+    second: deltarune-font-character-map_14
+  - first:
+      213: 1448805521866721021
+    second: deltarune-font-character-map_15
+  - first:
+      213: -8681361105301790008
+    second: deltarune-font-character-map_16
+  - first:
+      213: 5224405485576285160
+    second: deltarune-font-character-map_17
+  - first:
+      213: 6118407167770131537
+    second: deltarune-font-character-map_18
+  - first:
+      213: 5108863920953762324
+    second: deltarune-font-character-map_19
+  - first:
+      213: -2044860841480435158
+    second: deltarune-font-character-map_20
+  - first:
+      213: 9053040196379747773
+    second: deltarune-font-character-map_21
+  - first:
+      213: -2016992777789803052
+    second: deltarune-font-character-map_22
+  - first:
+      213: -453500721368194323
+    second: deltarune-font-character-map_23
+  - first:
+      213: 5645080192605781091
+    second: deltarune-font-character-map_24
+  - first:
+      213: 5271075088405637412
+    second: deltarune-font-character-map_25
+  - first:
+      213: 8695151926619595753
+    second: deltarune-font-character-map_26
+  - first:
+      213: 4677384357183018102
+    second: deltarune-font-character-map_27
+  - first:
+      213: -6579853524634577465
+    second: deltarune-font-character-map_28
+  - first:
+      213: -2955723360742932141
+    second: deltarune-font-character-map_29
+  - first:
+      213: 4654622093066130224
+    second: deltarune-font-character-map_30
+  - first:
+      213: -3813072843545828156
+    second: deltarune-font-character-map_31
+  - first:
+      213: 5089850394278735833
+    second: deltarune-font-character-map_32
+  - first:
+      213: 261932055523944788
+    second: deltarune-font-character-map_33
+  - first:
+      213: -7487594473231675493
+    second: deltarune-font-character-map_34
+  - first:
+      213: -1769367491969654416
+    second: deltarune-font-character-map_35
+  - first:
+      213: -2641314082784002021
+    second: deltarune-font-character-map_36
+  - first:
+      213: -2352396295344995856
+    second: deltarune-font-character-map_37
+  - first:
+      213: 7120185085997390024
+    second: deltarune-font-character-map_38
+  - first:
+      213: 1782084483009024249
+    second: deltarune-font-character-map_39
+  - first:
+      213: -140803205403071041
+    second: deltarune-font-character-map_40
+  - first:
+      213: 2888063229271463011
+    second: deltarune-font-character-map_41
+  - first:
+      213: 8633946151741621750
+    second: deltarune-font-character-map_42
+  - first:
+      213: 7740191021510138393
+    second: deltarune-font-character-map_43
+  - first:
+      213: 3286496499444794639
+    second: deltarune-font-character-map_44
+  - first:
+      213: -1075508385710648820
+    second: deltarune-font-character-map_45
+  - first:
+      213: -6683752046735806480
+    second: deltarune-font-character-map_46
+  - first:
+      213: 2667847103373314927
+    second: deltarune-font-character-map_47
+  - first:
+      213: -2916367729240333246
+    second: deltarune-font-character-map_48
+  - first:
+      213: 6187778316199032681
+    second: deltarune-font-character-map_49
+  - first:
+      213: 2575097744786601908
+    second: deltarune-font-character-map_50
+  - first:
+      213: -750923500803366525
+    second: deltarune-font-character-map_51
+  - first:
+      213: 6619904142136387287
+    second: deltarune-font-character-map_52
+  - first:
+      213: -926123926012713152
+    second: deltarune-font-character-map_53
+  - first:
+      213: -1748952845549571653
+    second: deltarune-font-character-map_54
+  - first:
+      213: -1073305830783532781
+    second: deltarune-font-character-map_55
+  - first:
+      213: -5099395061209989470
+    second: deltarune-font-character-map_56
+  - first:
+      213: 1869929934005201064
+    second: deltarune-font-character-map_57
+  - first:
+      213: -6331991778590258871
+    second: deltarune-font-character-map_58
+  - first:
+      213: -1227442628027614445
+    second: deltarune-font-character-map_59
+  - first:
+      213: 81934557815859446
+    second: deltarune-font-character-map_60
+  - first:
+      213: -7277368975462993863
+    second: deltarune-font-character-map_61
+  - first:
+      213: 3812683800238443925
+    second: deltarune-font-character-map_62
+  - first:
+      213: -8328964156882483924
+    second: deltarune-font-character-map_63
+  - first:
+      213: 2517655734283406738
+    second: deltarune-font-character-map_64
+  - first:
+      213: -7324928558321048018
+    second: deltarune-font-character-map_65
+  - first:
+      213: -6740652478881901281
+    second: deltarune-font-character-map_66
+  - first:
+      213: 1636769378885864156
+    second: deltarune-font-character-map_67
+  - first:
+      213: -835821055535691541
+    second: deltarune-font-character-map_68
+  - first:
+      213: 7046611262459157417
+    second: deltarune-font-character-map_69
+  - first:
+      213: -3963954302657681301
+    second: deltarune-font-character-map_70
+  - first:
+      213: 3470143836964893526
+    second: deltarune-font-character-map_71
+  - first:
+      213: -2514990265203792552
+    second: deltarune-font-character-map_72
+  - first:
+      213: -2706340383057716922
+    second: deltarune-font-character-map_73
+  - first:
+      213: -1973991245309330528
+    second: deltarune-font-character-map_74
+  - first:
+      213: 4042192261854210089
+    second: deltarune-font-character-map_75
+  - first:
+      213: -1783586901384550139
+    second: deltarune-font-character-map_76
+  - first:
+      213: 2427297478733881563
+    second: deltarune-font-character-map_77
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: deltarune-font-character-map_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1034
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786d153c9d0727500800000000000000
+      internalID: 392500198121789063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1034
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6125c5747679dc960800000000000000
+      internalID: 7623916214042776086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1034
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6027ae8ee8797540800000000000000
+      internalID: 5006165426789884012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_3
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1034
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6495691e0b4dad90800000000000000
+      internalID: -7084924114856209297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_4
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1034
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8ddd8d4da062470800000000000000
+      internalID: 8369388866802407672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_5
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1034
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde8330daa5b864a0800000000000000
+      internalID: -6599825508669354276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_6
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1034
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d29a4d2021e5260800000000000000
+      internalID: 7088122666894830889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_7
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1034
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4153d03bce45c9b40800000000000000
+      internalID: 5448323024804459796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_8
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1034
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5969c22a49a170fb0800000000000000
+      internalID: -4681744061950028139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 909
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c037b31c6efacdf40800000000000000
+      internalID: 5754667829491888908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 909
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bc088fcdcb36380800000000000000
+      internalID: -8979125574798619894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_11
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 909
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d467a47148f459990800000000000000
+      internalID: -7379904985631656371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_12
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 909
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f8e6586f4cf89b0800000000000000
+      internalID: -5075621691943645295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_13
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 909
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e7958be38855950800000000000000
+      internalID: 6437201045358214661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_14
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 909
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ece98a2660034db0800000000000000
+      internalID: -4808999538301211421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_15
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 909
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df68d7f22f03b1410800000000000000
+      internalID: 1448805521866721021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 909
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2289f021c958780800000000000000
+      internalID: -8681361105301790008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_17
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 909
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb606aeb11d08840800000000000000
+      internalID: 5224405485576285160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 784
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c742207e2f8e450800000000000000
+      internalID: 6118407167770131537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 784
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412224e0ba456e640800000000000000
+      internalID: 5108863920953762324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_20
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 784
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ac37816e13f93e0800000000000000
+      internalID: -2044860841480435158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_21
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 784
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db52c82f71cd2ad70800000000000000
+      internalID: 9053040196379747773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_22
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 784
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d57f4d41c33204e0800000000000000
+      internalID: -2016992777789803052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_23
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 784
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de227752f77d4b9f0800000000000000
+      internalID: -453500721368194323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_24
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 784
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c7cd8b68a575e40800000000000000
+      internalID: 5645080192605781091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_25
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 784
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42924d49dde962940800000000000000
+      internalID: 5271075088405637412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_26
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 659
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3e63ebb926ba870800000000000000
+      internalID: 8695151926619595753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 659
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674dcdf7a4869e040800000000000000
+      internalID: 4677384357183018102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_28
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 659
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5dd06b41aafa4a0800000000000000
+      internalID: -6579853524634577465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_29
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 659
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351089473492bf6d0800000000000000
+      internalID: -2955723360742932141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_30
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 659
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03354e4e12a889040800000000000000
+      internalID: 4654622093066130224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_31
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 659
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c423c9837e351bc0800000000000000
+      internalID: -3813072843545828156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_32
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 659
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfadd667f7c2a640800000000000000
+      internalID: 5089850394278735833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_33
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 659
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459eac411d192a300800000000000000
+      internalID: 261932055523944788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_34
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 659
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f09d06f78b61890800000000000000
+      internalID: -7487594473231675493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_35
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 534
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071660cf3a1f177e0800000000000000
+      internalID: -1769367491969654416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 534
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b104c6306da285bd0800000000000000
+      internalID: -2641314082784002021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_37
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 534
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1440d680c9a5fd0800000000000000
+      internalID: -2352396295344995856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_38
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 534
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c898e18c9affc260800000000000000
+      internalID: 7120185085997390024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_39
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 534
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f01d79356c3bb810800000000000000
+      internalID: 1782084483009024249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_40
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 534
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbda6be0b34cb0ef0800000000000000
+      internalID: -140803205403071041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_41
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 534
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364d7959436741820800000000000000
+      internalID: 2888063229271463011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_42
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 534
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f50968c740f1d770800000000000000
+      internalID: 8633946151741621750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_43
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 534
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a97ca89beaa6b60800000000000000
+      internalID: 7740191021510138393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_44
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 409
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05c8f4572bfb9d20800000000000000
+      internalID: 3286496499444794639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 409
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0253cc42d60311f0800000000000000
+      internalID: -1075508385710648820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_46
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 409
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffa58fecea8e33a0800000000000000
+      internalID: -6683752046735806480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_47
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 409
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b0f9f3ec8160520800000000000000
+      internalID: 2667847103373314927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_48
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 409
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244a738700bf687d0800000000000000
+      internalID: -2916367729240333246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_49
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 409
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96778e528976fd550800000000000000
+      internalID: 6187778316199032681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_50
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 409
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b73ae361c59cb320800000000000000
+      internalID: 2575097744786601908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_51
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 409
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3816f19fd0f2495f0800000000000000
+      internalID: -750923500803366525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_52
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 284
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d62d275ebf9edb50800000000000000
+      internalID: 6619904142136387287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 284
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047a504323fb523f0800000000000000
+      internalID: -926123926012713152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_54
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 284
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1fb1047a87ab7e0800000000000000
+      internalID: -1748952845549571653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_55
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 284
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311cac4980ada11f0800000000000000
+      internalID: -1073305830783532781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_56
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 284
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae7237a53f4b39b0800000000000000
+      internalID: -5099395061209989470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 284
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8ef3f1e5353f910800000000000000
+      internalID: 1869929934005201064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_58
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 284
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9490f64960f3028a0800000000000000
+      internalID: -6331991778590258871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_59
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 284
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bfd3ede6f37fee0800000000000000
+      internalID: -1227442628027614445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_60
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 284
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f86175db07132100800000000000000
+      internalID: 81934557815859446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_61
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 159
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93074165977910b90800000000000000
+      internalID: -7277368975462993863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 159
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d491247bf59e430800000000000000
+      internalID: 3812683800238443925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_63
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 159
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c250f026a33996c80800000000000000
+      internalID: -8328964156882483924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_64
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 159
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d00bc1d8280f220800000000000000
+      internalID: 2517655734283406738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_65
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 159
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26e82c0940a85a90800000000000000
+      internalID: -7324928558321048018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_66
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 159
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1553e1b8446472a0800000000000000
+      internalID: -6740652478881901281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_67
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 159
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda8abff319f6b610800000000000000
+      internalID: 1636769378885864156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_68
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 159
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8c009ad219664f0800000000000000
+      internalID: -835821055535691541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_69
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 159
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab1521db979ac160800000000000000
+      internalID: 7046611262459157417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_70
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 34
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68253c40943df8c0800000000000000
+      internalID: -3963954302657681301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 34
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653bdc12f6d682030800000000000000
+      internalID: 3470143836964893526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_72
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 34
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85566f4cda5f81dd0800000000000000
+      internalID: -2514990265203792552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_73
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 34
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649dc8aa2c5217ad0800000000000000
+      internalID: -2706340383057716922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_74
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 34
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab3b99cb69fa94e0800000000000000
+      internalID: -1973991245309330528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_75
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 34
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92827a91270c81830800000000000000
+      internalID: 4042192261854210089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_76
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 34
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5092fecb92d6f37e0800000000000000
+      internalID: -1783586901384550139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deltarune-font-character-map_77
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 34
+        width: 88.888885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd06220523e7fa120800000000000000
+      internalID: 2427297478733881563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

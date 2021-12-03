@@ -188,8 +188,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0248bd5042915e44808f766b55644e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Damage: 1
-  dmgSound: {fileID: 8300000, guid: 25337afebb7e86844b2aef17c6f36ec6, type: 3}
+  Damage: 7
 --- !u!1 &558309531697775238
 GameObject:
   m_ObjectHideFlags: 0
@@ -311,8 +310,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0248bd5042915e44808f766b55644e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Damage: 1
-  dmgSound: {fileID: 8300000, guid: 25337afebb7e86844b2aef17c6f36ec6, type: 3}
+  Damage: 7
 --- !u!1 &558309531974519737
 GameObject:
   m_ObjectHideFlags: 0
@@ -434,8 +432,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0248bd5042915e44808f766b55644e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Damage: 1
-  dmgSound: {fileID: 8300000, guid: 25337afebb7e86844b2aef17c6f36ec6, type: 3}
+  Damage: 7
 --- !u!1 &558309532104258048
 GameObject:
   m_ObjectHideFlags: 0
@@ -557,8 +554,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0248bd5042915e44808f766b55644e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Damage: 1
-  dmgSound: {fileID: 8300000, guid: 25337afebb7e86844b2aef17c6f36ec6, type: 3}
+  Damage: 7
 --- !u!1 &558309532187976698
 GameObject:
   m_ObjectHideFlags: 0
@@ -680,8 +676,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0248bd5042915e44808f766b55644e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Damage: 1
-  dmgSound: {fileID: 8300000, guid: 25337afebb7e86844b2aef17c6f36ec6, type: 3}
+  Damage: 7
 --- !u!1 &558309532547653909
 GameObject:
   m_ObjectHideFlags: 0
@@ -803,8 +798,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0248bd5042915e44808f766b55644e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Damage: 1
-  dmgSound: {fileID: 8300000, guid: 25337afebb7e86844b2aef17c6f36ec6, type: 3}
+  Damage: 7
 --- !u!1 &558309532674226827
 GameObject:
   m_ObjectHideFlags: 0
@@ -926,8 +920,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0248bd5042915e44808f766b55644e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Damage: 1
-  dmgSound: {fileID: 8300000, guid: 25337afebb7e86844b2aef17c6f36ec6, type: 3}
+  Damage: 7
 --- !u!1 &558309532827945330
 GameObject:
   m_ObjectHideFlags: 0
@@ -1049,8 +1042,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0248bd5042915e44808f766b55644e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Damage: 1
-  dmgSound: {fileID: 8300000, guid: 25337afebb7e86844b2aef17c6f36ec6, type: 3}
+  Damage: 7
 --- !u!1 &3784551253874366236
 GameObject:
   m_ObjectHideFlags: 0
