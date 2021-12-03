@@ -8,7 +8,7 @@ public class TPmeter : MonoBehaviour
     public Color PassiveCol;
     private Color Col;
     [SerializeField] AudioClip grazeSound = null;
-
+    public HealthBar healthBar;
     private float ColLerp;
 
     private SpriteRenderer Sprt;
@@ -40,7 +40,9 @@ public class TPmeter : MonoBehaviour
 
             if (TPAmt < 100)
             {
-                TPAmt += .1f;
+                
+                TPAmt += 1f;
+                healthBar.SetHealth(TPAmt);
             }
         }
     }
